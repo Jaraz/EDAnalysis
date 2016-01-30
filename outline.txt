@@ -1,0 +1,39 @@
+Eurodollar Futures Convexity Analysis
+
+Paper outline
+1) What is futures convexity vs swaplets
+2) How historically calc'd - perhaps tie to realized vol 
+3) How it looks today vs 2014
+4) Trading strategy
+5) Risks/Follow Ups - OIS blowout?  Looks at OI per contract and compare to overall CoT
+
+Graph Ideas
+1) Volume / Open Interest - time?
+
+
+Analysis Ideas
+1) Correlation between zero rate + future contract
+2) Open interest / Volume
+3) Realized vol
+4) implied vol? not sure how to get the data
+5) margin increases?  prob not
+6) curve steepness / level?
+7) bid/offer spread
+
+
+
+Email to Jabez:
+1) More work on the trade execution side.  i want to show two things (but I also wanted to get you a first draft):
+	a) Show some historical MTM gains on the long convexity bias trade, see what you Margin can make you.
+	b) Show more on the Short Covnexity bias trade.  Variation Margin exposure, could look at the past.
+2) What i'd add - but don't have access - implied vol / real 3pm swap rates / multiple years of convexity adj
+3) Issues with my data
+4) My OTC clearing margins are assumptions
+
+Stuff to do:
+1) CME/LCH basis wrt convexity
+2) Why isn't it being arb'd
+3) Look at ED options, i dont' have acces to good data on this from home
+
+Further thoughts:
+1) Gap exposure // Making clear you are very well delta hedged today, but its not perfect.
